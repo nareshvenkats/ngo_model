@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nareshvenkats/ngo_model/static/css/main.9a5c6096.css",
+    "main.js": "/nareshvenkats/ngo_model/static/js/main.7473109f.js",
+    "static/js/453.e060ba4a.chunk.js": "/nareshvenkats/ngo_model/static/js/453.e060ba4a.chunk.js",
+    "index.html": "/nareshvenkats/ngo_model/index.html",
+    "main.9a5c6096.css.map": "/nareshvenkats/ngo_model/static/css/main.9a5c6096.css.map",
+    "main.7473109f.js.map": "/nareshvenkats/ngo_model/static/js/main.7473109f.js.map",
+    "453.e060ba4a.chunk.js.map": "/nareshvenkats/ngo_model/static/js/453.e060ba4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.7473109f.js"
+  ]
+}
